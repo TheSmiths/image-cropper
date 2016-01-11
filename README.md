@@ -1,4 +1,4 @@
-parse image cropper ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
+Parse Image Cropper ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 ====================
 
 A simple image cropper as a Parse micro-service. 
