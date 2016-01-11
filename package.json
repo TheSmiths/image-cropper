@@ -4,7 +4,8 @@
   "description": "Online image croper service",
   "main": "cloud/main.js",
   "scripts": {
-    "start": "babel -d cloud cloud_es6 && parse deploy"
+    "deploy": "babel -d cloud cloud_es6 && parse deploy",
+    "start": "npm run deploy"
   },
   "keywords": [
     "crop",
